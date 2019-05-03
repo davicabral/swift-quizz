@@ -29,32 +29,40 @@
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z7R-WU-WnT">
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="158"/>
-                                        <color key="backgroundColor" red="0.98431372549999996" green="0.1058823529" blue="0.22352941179999999" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Button"/>
+                                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <state key="normal" title="Button">
+                                            <color key="titleColor" red="0.96849805119999999" green="0.96854132410000005" blue="0.97667533159999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
                                         <connections>
                                             <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qHj-zH-MX6"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fsU-wd-obK">
                                         <rect key="frame" x="0.0" y="178" width="414" height="158"/>
-                                        <color key="backgroundColor" red="0.98431372549999996" green="0.1058823529" blue="0.22352941179999999" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Button"/>
+                                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <state key="normal" title="Button">
+                                            <color key="titleColor" red="0.96849805119999999" green="0.96854132410000005" blue="0.97667533159999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
                                         <connections>
                                             <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MdV-dI-tdX"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gbx-GY-zjF">
                                         <rect key="frame" x="0.0" y="356" width="414" height="158"/>
-                                        <color key="backgroundColor" red="0.98431372549999996" green="0.1058823529" blue="0.22352941179999999" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Button"/>
+                                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <state key="normal" title="Button">
+                                            <color key="titleColor" red="0.96849805119999999" green="0.96854132410000005" blue="0.97667533159999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
                                         <connections>
                                             <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2BL-lG-5Ic"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TVQ-mM-ASn">
                                         <rect key="frame" x="0.0" y="534" width="414" height="158"/>
-                                        <color key="backgroundColor" red="0.98431372549999996" green="0.1058823529" blue="0.22352941179999999" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Button"/>
+                                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <state key="normal" title="Button">
+                                            <color key="titleColor" red="0.96849805119999999" green="0.96854132410000005" blue="0.97667533159999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
                                         <connections>
                                             <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="a2s-pE-Cqm"/>
                                         </connections>
